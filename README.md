@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi My Name's Prima Puspita👋
 
 <!--
 **PrimaPuspita/primapuspita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
