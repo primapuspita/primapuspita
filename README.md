@@ -2,7 +2,7 @@
 
 Want to know some fun facts ❓
 - 👩🏾‍🔬 Hallo
-- 🔭 I’m currently working as Ruby on Rails Developer
+- 🔭 I’m currently working as a Ruby on Rails Developer
 - 🌱 My Activities are Working, Traveling and Shopping
 
 
